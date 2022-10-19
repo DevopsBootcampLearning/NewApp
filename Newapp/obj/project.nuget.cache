@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFcFkorZ2+stU9+PO1WQuEbahjGkx3M6Z9mRTuXxiWQJj0xZb1Nje75483Ba+bYzzIAfxlrMKwuYj1hLBwg/Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankita.sayaji.salavi\\source\\repos\\Newapp\\Newapp\\Newapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ankita.sayaji.salavi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
